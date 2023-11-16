@@ -11,7 +11,9 @@ In this project, we will employ two different techniques. Simple Random Sampling
 
 Additional References
 Perlman, Michael D., and Lang Wu. “The emperor’s new tests.” Statistical Science, vol. 14, no. 4, 1999, https://doi.org/10.1214/ss/1009212517.
-Riley, Leanne. “Indicator Metadata Registry Details.” World Health Organization, World Health Organization, www.who.int/data/gho/indicator-metadata-registry/imr-details/2380#:~:text=The%20expected%20values%20for%20normal,and%20monitoring%20glycemia%20are%20recommended, Accessed 9 Nov. 2023.
+
+Riley, Leanne. “Indicator Metadata Registry Details.” World Health Organization, World Health Organization,
+www.who.int/data/gho/indicator-metadata-registry/imr details/2380#:~:text=The%20expected%20values%20for%20normal,and%20monitoring%20glycemia%20are%20recommended, Accessed 9 Nov. 2023.
 
 
 This projects is licensed under the (MIT License)[#LICENSE].
